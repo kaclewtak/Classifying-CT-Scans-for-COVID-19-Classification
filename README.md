@@ -3,5 +3,6 @@ Modern medical imaging has proven time and again to be a field which could see i
 
 The goal of this project is to test how well these architectures are able to perform in a classification task, as well as conclude whether or not they might be suitable for a real world implementation in a professional medical setting.
 
-
+An high level overview of what steps were taken throughout the notebook. 
 ![image](https://github.com/user-attachments/assets/d5822313-b8de-4574-9155-004c5fb759b5)
+
